@@ -1,0 +1,124 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Tesla Model S",
+      "seats": 5,
+      "fuel": "Electric",
+      "rentPerDay": 120,
+      "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a"
+    },
+    {
+      "id": 2,
+      "name": "BMW i8",
+      "seats": 2,
+      "fuel": "Hybrid",
+      "rentPerDay": 150,
+      "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d"
+    },
+    {
+      "id": 3,
+      "name": "Audi R8",
+      "seats": 2,
+      "fuel": "Petrol",
+      "rentPerDay": 180,
+      "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
+    },
+    {
+      "id": 4,
+      "name": "Mercedes C-Class",
+      "seats": 5,
+      "fuel": "Diesel",
+      "rentPerDay": 100,
+      "image": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade"
+    },
+    {
+      "id": 5,
+      "name": "Toyota Corolla",
+      "seats": 5,
+      "fuel": "Petrol",
+      "rentPerDay": 60,
+      "image": "https://images.unsplash.com/photo-1549924231-f129b911e442"
+    },
+    {
+      "id": 6,
+      "name": "Honda Civic",
+      "seats": 5,
+      "fuel": "Petrol",
+      "rentPerDay": 65,
+      "image": "https://images.unsplash.com/photo-1610465299996-0f7aa93c1ecb"
+    },
+    {
+      "id": 7,
+      "name": "Ford Mustang",
+      "seats": 4,
+      "fuel": "Petrol",
+      "rentPerDay": 140,
+      "image": "https://images.unsplash.com/photo-1504215680853-026ed2a45def"
+    },
+    {
+      "id": 8,
+      "name": "Chevrolet Camaro",
+      "seats": 4,
+      "fuel": "Petrol",
+      "rentPerDay": 135,
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+    },
+    {
+      "id": 9,
+      "name": "Nissan GTR",
+      "seats": 2,
+      "fuel": "Petrol",
+      "rentPerDay": 160,
+      "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023"
+    },
+    {
+      "id": 10,
+      "name": "Lamborghini Aventador",
+      "seats": 2,
+      "fuel": "Petrol",
+      "rentPerDay": 300,
+      "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d"
+    },
+    {
+      "id": 11,
+      "name": "Ferrari 488",
+      "seats": 2,
+      "fuel": "Petrol",
+      "rentPerDay": 280,
+      "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
+    },
+    {
+      "id": 12,
+      "name": "Porsche 911",
+      "seats": 2,
+      "fuel": "Petrol",
+      "rentPerDay": 200,
+      "image": "https://images.unsplash.com/photo-1493238792000-8113da705763"
+    },
+    {
+      "id": 13,
+      "name": "Range Rover Sport",
+      "seats": 7,
+      "fuel": "Diesel",
+      "rentPerDay": 170,
+      "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a"
+    },
+    {
+      "id": 14,
+      "name": "Jeep Wrangler",
+      "seats": 5,
+      "fuel": "Petrol",
+      "rentPerDay": 110,
+      "image": "https://images.unsplash.com/photo-1511391401200-1c1c1c1c1c1c"
+    },
+    {
+      "id": 15,
+      "name": "Kia Seltos",
+      "seats": 5,
+      "fuel": "Diesel",
+      "rentPerDay": 80,
+      "image": "https://images.unsplash.com/photo-1620891549027-23e88d3ef8f2"
+    }
+  ]
+}

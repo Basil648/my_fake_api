@@ -16,7 +16,7 @@
       "badge": "Most Popular",
       "features": ["Autopilot", "Wireless Charging", "Glass Roof", "Premium Sound System"],
       "mapLink": "https://maps.app.goo.gl/5AFbWEQsnNdJ5rby6",
-      "description": "The Tesla Model S is a luxury electric sedan known for its impressive performance and range. It offers a minimalist interior with advanced technology features, including Autopilot capabilities. The Model S provides a smooth and quiet ride, making it a popular choice among electric vehicle enthusiasts."
+      "description": "The Tesla Model S is a battery-electric, four-door full-size car produced by Tesla since 2012. It has been described as one of the most influential electric cars in the industry, offering impressive range and performance."
     },
     {
       "id": 2,
@@ -34,4 +34,149 @@
       "badge": "Best Selling",
       "features": ["Heads-Up Display", "Leather Seats", "Adaptive Cruise Control", "Harman Kardon Speakers"],
       "mapLink": "https://maps.app.goo.gl/ejNmKD3G6kT5pdL36",
-      "description": "The BMW i8 is a plug-in hybrid sports car that combines futuristic design with sustainable performance. It features a carbon-fiber-reinforced plastic body and a hybrid powertrain that delivers both efficiency and exhilarating acceleration. The i8's distinctive scissor doors and aerodynamic lines make it a head-turner on the road."
+      "description": "The BMW i8 is a plug-in hybrid sports car developed by BMW, combining a 1.5L turbocharged I3 engine with an electric motor to deliver a combined output of 369 hp."
+    },
+    {
+      "id": 3,
+      "name": "Audi R8",
+      "seats": 2,
+      "fuel": "Petrol",
+      "rentPerDay": 180,
+      "images": [
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+        "https://images.unsplash.com/photo-1493238792000-8113da705763",
+        "https://images.unsplash.com/photo-1508057198894-247b23fe5ade"
+      ],
+      "location": "Calicut, Kerala",
+      "status": "Available",
+      "badge": "Popular",
+      "features": ["Sport Mode", "Bang & Olufsen Sound System", "Parking Sensors", "LED Headlights"],
+      "mapLink": "https://maps.app.goo.gl/czkumRQ2DH29v1bU6",
+      "description": "The Audi R8 is a mid-engine, all-wheel-drive sports car produced by Audi since 2006, known for its striking design and exceptional handling capabilities."
+    },
+    {
+      "id": 4,
+      "name": "Mercedes C-Class",
+      "seats": 5,
+      "fuel": "Diesel",
+      "rentPerDay": 100,
+      "images": [
+        "https://images.unsplash.com/photo-1508057198894-247b23fe5ade",
+        "https://images.unsplash.com/photo-1549924231-f129b911e442",
+        "https://images.unsplash.com/photo-1610465299996-0f7aa93c1ecb"
+      ],
+      "location": "Alappuzha, Kerala",
+      "status": "Rented out",
+      "badge": "Family's Choice",
+      "features": ["Panoramic Sunroof", "Ambient Lighting", "Memory Seats", "Dual Zone Climate Control"],
+      "mapLink": "https://maps.app.goo.gl/7YApTDGYF5kU2tTg6",
+      "description": "The Mercedes-Benz C-Class is a series of compact executive cars produced by Mercedes-Benz Group AG, offering a blend of luxury, performance, and advanced technology."
+    },
+    {
+      "id": 5,
+      "name": "Toyota Corolla",
+      "seats": 5,
+      "fuel": "Petrol",
+      "rentPerDay": 60,
+      "images": [
+        "https://images.unsplash.com/photo-1549924231-f129b911e442",
+        "https://images.unsplash.com/photo-1504215680853-026ed2a45def",
+        "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d"
+      ],
+      "location": "Thrissur, Kerala",
+      "status": "Available",
+      "badge": "Affordable",
+      "features": ["Touchscreen Display", "Rear Camera", "Bluetooth Connectivity", "Fuel Efficient"],
+      "mapLink": "https://goo.gl/maps/2gkF5z5z5xC2",
+      "description": "The Toyota Corolla is a series of compact cars manufactured and marketed globally by Toyota Motor Corporation, known for its reliability and fuel efficiency."
+    },
+    {
+      "id": 6,
+      "name": "Honda Civic",
+      "seats": 5,
+      "fuel": "Petrol",
+      "rentPerDay": 65,
+      "images": [
+        "https://images.unsplash.com/photo-1610465299996-0f7aa93c1ecb",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+      ],
+      "location": "Kannur, Kerala",
+      "status": "Available",
+      "badge": "Affordable",
+      "features": ["Sunroof", "Apple CarPlay", "Lane Assist", "Cruise Control"],
+      "mapLink": "https://goo.gl/maps/2gkF5z5z5xC2",
+      "description": "The Honda Civic is a series of automobiles manufactured by Honda since 1972, known for its sporty design and efficient performance."
+    },
+    {
+      "id": 7,
+      "name": "Ford Mustang",
+      "seats": 4,
+      "fuel": "Petrol",
+      "rentPerDay": 140,
+      "images": [
+        "https://images.unsplash.com/photo-1504215680853-026ed2a45def",
+        "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023",
+        "https://images.unsplash.com/photo-1508057198894-247b23fe5ade"
+      ],
+      "location": "Kollam, Kerala",
+      "status": "Rented out",
+      "badge": "Best Selling",
+      "features": ["Convertible Roof", "Sport Exhaust", "Heated Seats", "Keyless Entry"],
+      "mapLink": "https://goo.gl/maps/2gkF5z5z5xC2",
+      "description": "The Ford Mustang is a series of American automobiles manufactured by Ford, known for its powerful engines and aggressive styling."
+    },
+    {
+      "id": 8,
+      "name": "Chevrolet Camaro",
+      "seats": 4,
+      "fuel": "Petrol",
+      "rentPerDay": 135,
+      "images": [
+        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+        "https://images.unsplash.com/photo-1493238792000-8113da705763",
+        "https://images.unsplash.com/photo-1549924231-f129b911e442"
+      ],
+      "location": "Palakkad, Kerala",
+      "status": "Available",
+      "badge": "Trending",
+      "features": ["Performance Tires", "Bose Audio", "Android Auto", "Recaro Seats"],
+      "mapLink": "https://goo.gl/maps/2gkF5z5z5xC2",
+      "description": "The Chevrolet Camaro is a mid-size American automobile manufactured by Chevrolet, classified as a pony car, known for its bold design and powerful engine options."
+    },
+    {
+      "id": 9,
+      "name": "Nissan GTR",
+      "seats": 2,
+      "fuel": "Petrol",
+      "rentPerDay": 160,
+      "images": [
+        "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+        "https://images.unsplash.com/photo-1504215680853-026ed2a45def"
+      ],
+      "location": "Wayanad, Kerala",
+      "status": "Available",
+      "badge": "New Arrival",
+      "features": ["Launch Control", "Carbon Fiber Trim", "Touchscreen Navigation", "Sport Suspension"],
+      "mapLink": "https://goo.gl/maps/2gkF5z5z5xC2",
+      "description": "The Nissan GT-R is a high-performance sports car produced by Nissan, known for its advanced technology and exceptional handling."
+    },
+    {
+      "id": 10,
+      "name": "Lamborghini Aventador",
+      "seats": 2,
+      "fuel": "Petrol",
+      "rentPerDay": 300,
+      "images": [
+        "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d",
+        "https://images.unsplash.com/photo-1502877338535-766e1452684a",
+        "https://images.unsplash.com/photo-1493238792000-8113da705763"
+      ],
+      "location": "Ernakulam, Kerala",
+      "status": "Rented out",
+      "badge": "Top Rated",
+      "features": ["Scissor Doors", "Carbon Ceramic Brakes", "Digital Cockpit", "Track Mode"],
+      "mapLink": "https://goo.gl/maps/2gkF5z5z5xC"
+      "description":"The Lamborghini Aventador is a mid-engine, two-passenger supercar produced by Lamborghini from 2011 to 2022."
+    }

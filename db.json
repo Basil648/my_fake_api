@@ -6,7 +6,15 @@
       "seats": 5,
       "fuel": "Electric",
       "rentPerDay": 120,
-      "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a"
+      "images": [
+        "https://images.unsplash.com/photo-1502877338535-766e1452684a",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+        "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023"
+      ],
+      "location": "Kochi, Kerala",
+      "status": "Available",
+      "badge": "Most Popular",
+      "features": ["Autopilot", "Wireless Charging", "Glass Roof", "Premium Sound System"]
     },
     {
       "id": 2,
@@ -14,7 +22,15 @@
       "seats": 2,
       "fuel": "Hybrid",
       "rentPerDay": 150,
-      "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d"
+      "images": [
+        "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d",
+        "https://images.unsplash.com/photo-1504215680853-026ed2a45def",
+        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+      ],
+      "location": "Trivandrum, Kerala",
+      "status": "Rented out",
+      "badge": "Best Selling",
+      "features": ["Heads-Up Display", "Leather Seats", "Adaptive Cruise Control", "Harman Kardon Speakers"]
     },
     {
       "id": 3,
@@ -22,7 +38,15 @@
       "seats": 2,
       "fuel": "Petrol",
       "rentPerDay": 180,
-      "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
+      "images": [
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+        "https://images.unsplash.com/photo-1493238792000-8113da705763",
+        "https://images.unsplash.com/photo-1508057198894-247b23fe5ade"
+      ],
+      "location": "Calicut, Kerala",
+      "status": "Available",
+      "badge": "Popular",
+      "features": ["Sport Mode", "Bang & Olufsen Sound System", "Parking Sensors", "LED Headlights"]
     },
     {
       "id": 4,
@@ -30,7 +54,15 @@
       "seats": 5,
       "fuel": "Diesel",
       "rentPerDay": 100,
-      "image": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade"
+      "images": [
+        "https://images.unsplash.com/photo-1508057198894-247b23fe5ade",
+        "https://images.unsplash.com/photo-1549924231-f129b911e442",
+        "https://images.unsplash.com/photo-1610465299996-0f7aa93c1ecb"
+      ],
+      "location": "Alappuzha, Kerala",
+      "status": "Rented out",
+      "badge": "Family's Choice",
+      "features": ["Panoramic Sunroof", "Ambient Lighting", "Memory Seats", "Dual Zone Climate Control"]
     },
     {
       "id": 5,
@@ -38,7 +70,15 @@
       "seats": 5,
       "fuel": "Petrol",
       "rentPerDay": 60,
-      "image": "https://images.unsplash.com/photo-1549924231-f129b911e442"
+      "images": [
+        "https://images.unsplash.com/photo-1549924231-f129b911e442",
+        "https://images.unsplash.com/photo-1504215680853-026ed2a45def",
+        "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d"
+      ],
+      "location": "Thrissur, Kerala",
+      "status": "Available",
+      "badge": "Affordable",
+      "features": ["Touchscreen Display", "Rear Camera", "Bluetooth Connectivity", "Fuel Efficient"]
     },
     {
       "id": 6,
@@ -46,7 +86,15 @@
       "seats": 5,
       "fuel": "Petrol",
       "rentPerDay": 65,
-      "image": "https://images.unsplash.com/photo-1610465299996-0f7aa93c1ecb"
+      "images": [
+        "https://images.unsplash.com/photo-1610465299996-0f7aa93c1ecb",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+      ],
+      "location": "Kannur, Kerala",
+      "status": "Available",
+      "badge": "Affordable",
+      "features": ["Sunroof", "Apple CarPlay", "Lane Assist", "Cruise Control"]
     },
     {
       "id": 7,
@@ -54,7 +102,15 @@
       "seats": 4,
       "fuel": "Petrol",
       "rentPerDay": 140,
-      "image": "https://images.unsplash.com/photo-1504215680853-026ed2a45def"
+      "images": [
+        "https://images.unsplash.com/photo-1504215680853-026ed2a45def",
+        "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023",
+        "https://images.unsplash.com/photo-1508057198894-247b23fe5ade"
+      ],
+      "location": "Kollam, Kerala",
+      "status": "Rented out",
+      "badge": "Best Selling",
+      "features": ["Convertible Roof", "Sport Exhaust", "Heated Seats", "Keyless Entry"]
     },
     {
       "id": 8,
@@ -62,7 +118,15 @@
       "seats": 4,
       "fuel": "Petrol",
       "rentPerDay": 135,
-      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+      "images": [
+        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+        "https://images.unsplash.com/photo-1493238792000-8113da705763",
+        "https://images.unsplash.com/photo-1549924231-f129b911e442"
+      ],
+      "location": "Palakkad, Kerala",
+      "status": "Available",
+      "badge": "Trending",
+      "features": ["Performance Tires", "Bose Audio", "Android Auto", "Recaro Seats"]
     },
     {
       "id": 9,
@@ -70,7 +134,15 @@
       "seats": 2,
       "fuel": "Petrol",
       "rentPerDay": 160,
-      "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023"
+      "images": [
+        "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+        "https://images.unsplash.com/photo-1504215680853-026ed2a45def"
+      ],
+      "location": "Wayanad, Kerala",
+      "status": "Available",
+      "badge": "New Arrival",
+      "features": ["Launch Control", "Carbon Fiber Trim", "Touchscreen Navigation", "Sport Suspension"]
     },
     {
       "id": 10,
@@ -78,7 +150,15 @@
       "seats": 2,
       "fuel": "Petrol",
       "rentPerDay": 300,
-      "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d"
+      "images": [
+        "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d",
+        "https://images.unsplash.com/photo-1502877338535-766e1452684a",
+        "https://images.unsplash.com/photo-1493238792000-8113da705763"
+      ],
+      "location": "Ernakulam, Kerala",
+      "status": "Rented out",
+      "badge": "Top Rated",
+      "features": ["Scissor Doors", "Carbon Ceramic Brakes", "Digital Cockpit", "Track Mode"]
     },
     {
       "id": 11,
@@ -86,7 +166,15 @@
       "seats": 2,
       "fuel": "Petrol",
       "rentPerDay": 280,
-      "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
+      "images": [
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+        "https://images.unsplash.com/photo-1504215680853-026ed2a45def",
+        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+      ],
+      "location": "Kottayam, Kerala",
+      "status": "Available",
+      "badge": "Luxury",
+      "features": ["Launch Control", "Carbon Fiber Interior", "Premium Leather Seats", "High-Performance Brakes"]
     },
     {
       "id": 12,
@@ -94,7 +182,15 @@
       "seats": 2,
       "fuel": "Petrol",
       "rentPerDay": 200,
-      "image": "https://images.unsplash.com/photo-1493238792000-8113da705763"
+      "images": [
+        "https://images.unsplash.com/photo-1493238792000-8113da705763",
+        "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023",
+        "https://images.unsplash.com/photo-1549924231-f129b911e442"
+      ],
+      "location": "Pathanamthitta, Kerala",
+      "status": "Rented out",
+      "badge": "Top Rated",
+      "features": ["Sport Chrono Package", "Bose Surround System", "Adaptive Spoiler", "Porsche Communication Management"]
     },
     {
       "id": 13,
@@ -102,7 +198,15 @@
       "seats": 7,
       "fuel": "Diesel",
       "rentPerDay": 170,
-      "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a"
+      "images": [
+        "https://images.unsplash.com/photo-1502877338535-766e1452684a",
+        "https://images.unsplash.com/photo-1508057198894-247b23fe5ade",
+        "https://images.unsplash.com/photo-1610465299996-0f7aa93c1ecb"
+      ],
+      "location": "Malappuram, Kerala",
+      "status": "Available",
+      "badge": "Family Choice",
+      "features": ["Terrain Response", "Panoramic Roof", "Meridian Audio", "Rear Seat Entertainment"]
     },
     {
       "id": 14,
@@ -110,7 +214,15 @@
       "seats": 5,
       "fuel": "Petrol",
       "rentPerDay": 110,
-      "image": "https://images.unsplash.com/photo-1511391401200-1c1c1c1c1c1c"
+      "images": [
+        "https://images.unsplash.com/photo-1511391401200-1c1c1c1c1c1c",
+        "https://images.unsplash.com/photo-1504215680853-026ed2a45def",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
+      ],
+      "location": "Idukki, Kerala",
+      "status": "Rented out",
+      "badge": "Adventure Ready",
+      "features": ["Removable Roof", "4x4 Drive", "Hill Descent Control", "All-Terrain Tires"]
     },
     {
       "id": 15,
@@ -118,7 +230,15 @@
       "seats": 5,
       "fuel": "Diesel",
       "rentPerDay": 80,
-      "image": "https://images.unsplash.com/photo-1620891549027-23e88d3ef8f2"
+      "images": [
+        "https://images.unsplash.com/photo-1620891549027-23e88d3ef8f2",
+        "https://images.unsplash.com/photo-1508057198894-247b23fe5ade",
+        "https://images.unsplash.com/photo-1549924231-f129b911e442"
+      ],
+      "location": "Kasargod, Kerala",
+      "status": "Available",
+      "badge": "Budget Friendly",
+      "features": ["Air Purifier", "Wireless Android Auto", "360 Camera", "Ventilated Seats"]
     }
   ]
 }

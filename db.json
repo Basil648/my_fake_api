@@ -12,6 +12,7 @@
         "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023"
       ],
       "location": "Kochi, Kerala",
+            "find":"https://www.google.com/maps/place/Marine+Drive,+Kochi,+Kerala",
       "status": "Available",
       "badge": "Most Popular",
       "features": ["Autopilot", "Wireless Charging", "Glass Roof", "Premium Sound System"],
@@ -30,6 +31,7 @@
         "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
       ],
       "location": "Trivandrum, Kerala",
+            "find":"https://www.google.com/maps/place/Varkala+Beach,+Kerala",
       "status": "Rented out",
       "badge": "Best Selling",
       "features": ["Heads-Up Display", "Leather Seats", "Adaptive Cruise Control", "Harman Kardon Speakers"],
@@ -48,6 +50,7 @@
         "https://images.unsplash.com/photo-1508057198894-247b23fe5ade"
       ],
       "location": "Calicut, Kerala",
+            "find":"https://www.google.com/maps/place/Alappuzha,+Kerala",
       "status": "Available",
       "badge": "Popular",
       "features": ["Sport Mode", "Bang & Olufsen Sound System", "Parking Sensors", "LED Headlights"],
@@ -66,6 +69,7 @@
         "https://images.unsplash.com/photo-1610465299996-0f7aa93c1ecb"
       ],
       "location": "Alappuzha, Kerala",
+            "find":"https://www.google.com/maps/place/Kovalam+Beach,+Kerala",
       "status": "Rented out",
       "badge": "Family's Choice",
       "features": ["Panoramic Sunroof", "Ambient Lighting", "Memory Seats", "Dual Zone Climate Control"],
@@ -84,6 +88,7 @@
         "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d"
       ],
       "location": "Thrissur, Kerala",
+            "find":"https://www.google.com/maps/place/Periyar+Wildlife+Sanctuary,+Kerala",
       "status": "Available",
       "badge": "Affordable",
       "features": ["Touchscreen Display", "Rear Camera", "Bluetooth Connectivity", "Fuel Efficient"],
@@ -102,6 +107,7 @@
         "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
       ],
       "location": "Kannur, Kerala",
+            "find":"https://www.google.com/maps/place/Munnar,+Kerala",
       "status": "Available",
       "badge": "Affordable",
       "features": ["Sunroof", "Apple CarPlay", "Lane Assist", "Cruise Control"],
@@ -120,6 +126,7 @@
         "https://images.unsplash.com/photo-1508057198894-247b23fe5ade"
       ],
       "location": "Kollam, Kerala",
+            "find":"https://www.google.com/maps/place/Areekkal+Waterfalls,+Kerala",
       "status": "Rented out",
       "badge": "Best Selling",
       "features": ["Convertible Roof", "Sport Exhaust", "Heated Seats", "Keyless Entry"],
@@ -138,6 +145,7 @@
         "https://images.unsplash.com/photo-1549924231-f129b911e442"
       ],
       "location": "Palakkad, Kerala",
+      "find":"https://www.google.com/maps/place/Jatayu+Earth's+Center+Nature+Park,+Kerala",
       "status": "Available",
       "badge": "Trending",
       "features": ["Performance Tires", "Bose Audio", "Android Auto", "Recaro Seats"],
@@ -156,6 +164,7 @@
         "https://images.unsplash.com/photo-1504215680853-026ed2a45def"
       ],
       "location": "Wayanad, Kerala",
+            "find":"https://www.google.com/maps/place/Pookode+Lake,+Wayanad+Kerala",
       "status": "Available",
       "badge": "New Arrival",
       "features": ["Launch Control", "Carbon Fiber Trim", "Touchscreen Navigation", "Sport Suspension"],
@@ -174,6 +183,7 @@
         "https://images.unsplash.com/photo-1493238792000-8113da705763"
       ],
       "location": "Ernakulam, Kerala",
+      "find":"https://www.google.com/maps/place/Jatayu+Earth's+Center+Nature+Park,+Kerala",
       "status": "Rented out",
       "badge": "Top Rated",
       "features": ["Scissor Doors", "Carbon Ceramic Brakes", "Digital Cockpit", "Track Mode"],

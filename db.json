@@ -177,7 +177,8 @@
       "status": "Rented out",
       "badge": "Top Rated",
       "features": ["Scissor Doors", "Carbon Ceramic Brakes", "Digital Cockpit", "Track Mode"],
-      "mapLink": "https://goo.gl/maps/2gkF5z5z5xC"
-      "description":"The Lamborghini Aventador is a mid-engine, two-passenger supercar produced by Lamborghini from 2011 to 2022."
+      "mapLink": "https://goo.gl/maps/2gkF5z5z5xC",
+      "description": "The Lamborghini Aventador is a mid-engine, two-passenger supercar produced by Lamborghini from 2011 to 2022."
     }
-    }
+  ]
+}
